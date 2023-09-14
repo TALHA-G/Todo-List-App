@@ -100,6 +100,16 @@ ul li button{
     color: #fff;
     font-size: 16px;
 }  
+.create h2{
+    font-size: 2rem;
+    width: 30%;
+    font-family: sans-serif;
+    padding: 2rem;
+    margin: 4rem auto;
+    border-radius: 2rem;
+    color: #ff5945;
+    background-color: #fff;
+}
     
     
 
